@@ -3,6 +3,8 @@
 
 enFil.txt
 /enFil.txt
+filen.txt
+/filen.txt
 
 # User-specific files
 *.suo
